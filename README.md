@@ -40,10 +40,12 @@ With multi-threading, it ensures smooth and responsive communication even when m
 ---
 
 ## 📂 Project Structure
+```
 Java_Group_Chat_App/
-│── GroupChatServer.java # Server-side logic
-│── GroupChatClient.java # Client-side logic
-│── README.md # Project documentation
+│── GroupChatServer.java   # Server-side logic
+│── GroupChatClient.java   # Client-side logic
+│── README.md              # Project documentation
+```
 
 
 ---

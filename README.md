@@ -54,12 +54,13 @@ Java_Group_Chat_App/
 ```bash
 javac GroupChatServer.java
 java GroupChatServer
+```
 
 ### 2️⃣ Start the Client
-
+```bash
 javac GroupChatClient.java
 java GroupChatClient
-
+```
 
 ### 💡 Applications
 Small group communication over LAN
@@ -68,4 +69,4 @@ Learning Java networking and multi-threading
 Base for GUI-based or secure messaging platforms
 
 
-This project is created by Aniket Kumar Jha and is free to use for learning and educational purposes.
+### This project is created by Aniket Kumar Jha and is free to use for learning and educational purposes.

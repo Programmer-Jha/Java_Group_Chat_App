@@ -1,7 +1,5 @@
 # Java Group Chat Application
 
-### Developed By: Aniket Kumar Jha
-
 ## 📌 Overview
 The **Java Group Chat Application** is a console-based, real-time messaging platform built using **Java Socket Programming**.  
 It enables multiple clients to connect to a central server and exchange messages instantly over a network.  
